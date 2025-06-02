@@ -32,8 +32,3 @@ To ensure compatibility, please respect the following input format:
 ## ⚙️ Reproducibility Notes
 
 This version uses placeholder data to demonstrate functionality. Due to dataset confidentiality, real data is not included.
-
-## 📦 Running the Code
-
-```bash
-python cvcp_function.py

@@ -1,0 +1,112 @@
+{
+    "c1": {
+        "n_clusters": 2,
+        "labels": {
+            "High Soil pH": "HIGH",
+            "Moderate Soil pH": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate Soil pH",
+            "LOW-to-HIGH": "Moderate to High Soil pH"
+        }
+    },
+    "c2": {
+        "n_clusters": 2,
+        "labels": {
+            "High CaCO3": "HIGH",
+            "Moderate CaCO3": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate CaCO3",
+            "LOW-to-HIGH": "Moderate to High CaCO3"
+        }
+    },
+    "c3": {
+        "n_clusters": 2,
+        "labels": {
+            "High OM": "HIGH",
+            "Moderate OM": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate OM",
+            "LOW-to-HIGH": "Moderate to High OM"
+        }
+    },
+    "c4": {
+        "n_clusters": 2,
+        "labels": {
+            "High K2O": "HIGH",
+            "Moderate K2O": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate K2O",
+            "LOW-to-HIGH": "Moderate to High K2O"
+        }
+    },
+    "c5": {
+        "n_clusters": 2,
+        "labels": {
+            "High Sand": "HIGH",
+            "Moderate Sand": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate Sand",
+            "LOW-to-HIGH": "Moderate to High Sand"
+        }
+    },
+    "c6": {
+        "n_clusters": 2,
+        "labels": {
+            "High Clay": "HIGH",
+            "Moderate Clay": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate Clay",
+            "LOW-to-HIGH": "Moderate to High Clay"
+        }
+    },
+    "c7": {
+        "n_clusters": 2,
+        "labels": {
+            "High Nitrogen": "HIGH",
+            "Moderate Nitrogen": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate Nitrogen",
+            "LOW-to-HIGH": "Moderate to High Nitrogen"
+        }
+    },
+    "c8": {
+        "n_clusters": 2,
+        "labels": {
+            "High Phosphorous": "HIGH",
+            "Moderate Phosphorous": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate Phosphorous",
+            "LOW-to-HIGH": "Moderate to High Phosphorous"
+        }
+    },
+    "c9": {
+        "n_clusters": 2,
+        "labels": {
+            "High Potassium": "HIGH",
+            "Moderate Potassium": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate Potassium",
+            "LOW-to-HIGH": "Moderate to High Potassium"
+        }
+    },
+    "c10": {
+        "n_clusters": 2,
+        "labels": {
+            "High SowingRate": "HIGH",
+            "Moderate SowingRate": "LOW"
+        },
+        "dual_labels": {
+            "HIGH-to-LOW": "High to Moderate SowingRate",
+            "LOW-to-HIGH": "Moderate to High SowingRate"
+        }
+    }
+}
